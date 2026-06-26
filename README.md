@@ -1,21 +1,21 @@
-Hi 👋 I'm Vaibhav Saini
+##Hi 👋 I'm Vaibhav Saini
 
 🎓 CSE Student @ Chandigarh University
 
-💻 Currently Learning
+#💻 Currently Learning
 - C++
 - Python 
 - Data Structures & Algorithms
 - Web Development
 - AI & Machine Learning
 
-🚀 Goals
+#🚀 Goals
 - Become a Software Engineer
 - Build Open Source Projects
 - Launch My Own Smartphone Brand
 
-🌱 Building in Public
+#🌱 Building in Public
 
-📫 Reach Me
+#📫 Reach Me
 Email: vaibhavsaini2496@gmail.com
 Instagram: @exploringvaibhav
