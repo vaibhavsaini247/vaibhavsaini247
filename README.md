@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi 👋 I'm Vaibhav Saini
 
-<!--
-**vaibhavsaini247/vaibhavsaini247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student @ Chandigarh University
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- C++
+- Python 
+- Data Structures & Algorithms
+- Web Development
+- AI & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals
+- Become a Software Engineer
+- Build Open Source Projects
+- Launch My Own Smartphone Brand
+
+🌱 Building in Public
+
+📫 Reach Me
+Email: vaibhavsaini2496@gmail.com
+Instagram: @exploringvaibhav
