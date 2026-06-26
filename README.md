@@ -1,5 +1,4 @@
-# Hi 
-# I'm Vaibhav Saini
+# Hi, I'm Vaibhav Saini
 
 🎓 CSE Student @ Chandigarh University
 
